@@ -740,7 +740,6 @@ export default function Page() {
             <Card className="p-6">
               <h3 className="text-lg font-semibold">Links</h3>
               <p className="mt-2 text-sm text-white/70">
-                Replace the placeholders with your real URLs.
               </p>
 
               <div className="mt-5 grid gap-3">
