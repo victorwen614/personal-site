@@ -745,7 +745,7 @@ export default function Page() {
               <div className="mt-5 grid gap-3">
                 <a
                   className="rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm hover:bg-white/10 transition"
-                  href="https://www.linkedin.com/"
+                  href="www.linkedin.com/in/hanyao-wen-5bb468329"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -753,7 +753,7 @@ export default function Page() {
                 </a>
                 <a
                   className="rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm hover:bg-white/10 transition"
-                  href="https://github.com/"
+                  href="https://github.com/victorwen614"
                   target="_blank"
                   rel="noreferrer"
                 >
